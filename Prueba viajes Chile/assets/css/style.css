@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.fondo{
+background-color: black;
+}
+
+.titulo{
+    font-family: roboto, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+
+.container-fluid{
+    font-family: roboto, sans-serif;
+    background-color: rgb(23, 105, 153);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+p{
+    color: white;
+}
+
+.navbar{
+     font-family: roboto, sans-serif;
+     background-color: white;
+}
+
+.logo{
+    
+    margin-left: -100;
+    
+}
+
+.derecha{
+    align-items: flex-end;
+}
+
+
+.division{
+    color: white;
+}
+
+.formulario{
+    margin: 60px;
+}
+
+label{
+    color: white;
+}
+
+.btn{
+margin-top: 10px;
+}
+
+.final{
+    background-color: rgb(23, 105, 153);
+    height: 100px;
+    color: white;
+}
+
+
